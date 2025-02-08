@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    /*  Update or Add these properties to set images.webp as background*/
+    background-image: url('/static/images.webp');  /* Relative path within static directory */
+    background-size: cover; /* Cover the entire body */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keep the background fixed during scrolling */
+    background-position: center center; /* Center the image */
+    background-color: #f4f4f4; /* Fallback color */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #dfdbdbcc; /* Adjust transparency as needed */
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 60%;
+    max-width: 400px; /* Adjust as needed */
+    text-align: center;
+}
+
+h1 {
+    color: #000000;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+input[type="number"],
+select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #004895;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #28a745;
+}
+
+.error {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #dc3545;
+}

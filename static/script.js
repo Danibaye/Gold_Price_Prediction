@@ -1,0 +1,1 @@
+// Removed the java script because we are rendering the content directly with Jinja2 from app.py
