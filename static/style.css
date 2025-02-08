@@ -20,7 +20,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 60%;
-    max-width: 400px; /* Adjust as needed */
+    max-width: 500px; /* Adjust as needed */
     text-align: center;
 }
 
@@ -61,7 +61,7 @@ button:hover {
 .result {
     margin-top: 20px;
     font-size: 18px;
-    color: #28a745;
+    color: #000200;
 }
 
 .error {
