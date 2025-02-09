@@ -1,7 +1,7 @@
 # Gold (stock)Price Prediction 
   
   ### [name:Danial Baye] 
-  ###  [id:14051105] 
+  ###  [id:1401105] 
   ###  [API link:https://gold-price-prediction-9.onrender.com]
    
 ## Project Overview
