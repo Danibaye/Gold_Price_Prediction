@@ -1,5 +1,9 @@
-# Gold Price Prediction API and UI
-
+# Gold (stock)Price Prediction 
+  
+  ### [name:Danial Baye] 
+  ###  [id:14051105] 
+  ###  [API link:https://gold-price-prediction-9.onrender.com]
+   
 ## Project Overview
 
 This project demonstrates a full machine learning lifecycle for predicting daily gold prices, from data acquisition to user-friendly deployment. The model is served as an API using FastAPI and accessible through a web interface.
@@ -213,7 +217,7 @@ Implement unit and integration tests for the application.
 Deploy the application to a cloud platform (e.g., Heroku, AWS) for production use.
 
 🔗 License
-[Specify your project's license. Example: MIT License]
+[ MIT License]
 
 🖋️ Author
 [danial baye Gizachew]
